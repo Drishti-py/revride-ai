@@ -1,5 +1,5 @@
 # revride-ai
-# 🚗 RevRide AI — Don’t Just Dream It. Drive It.
+# 🚗 RevRide AI — Don’t Just Dream It. Drive It. (10 Yr Buildathon Submission)
 
 ## 🌟 The Story Behind RevRide
 
